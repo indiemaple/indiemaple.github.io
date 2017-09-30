@@ -272,4 +272,4 @@ OK，现在我们可以来看看上述代码的效果了，首先在项目根目
 
 想要了解更多 Scout 扩展包的使用细节，可参考对应中文文档：http://laravelacademy.org/post/6277.html
 
-> 声明：本文整理翻译自[itsolutionstuff.com](itsolutionstuff.com)
+> 声明：本文整理翻译自[itsolutionstuff.com](http://itsolutionstuff.com/)
